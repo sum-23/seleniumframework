@@ -7,7 +7,7 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verifySearchWithValidData" invocation-numbers="2"/>
+          <include name="verifySearchWithValidData" invocation-numbers="0 2"/>
         </methods>
       </class> <!-- com.test.selenium.Search -->
     </classes>

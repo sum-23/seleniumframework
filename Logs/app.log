@@ -1606,3 +1606,51 @@ Method public void com.test.selenium.Search.verifySearchWithValidData(java.lang.
 2025-03-31 21:07:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@78b7f805: 0 ms
 2025-03-31 21:07:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3caafa67: 11 ms
 2025-03-31 21:07:32 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3e546734: 0 ms
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SumitKumar\AppData\Local\Temp\testng-eclipse--1872791548\testng-customsuite.xml
+
+2025-07-08 13:36:14 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-07-08 13:36:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-08 13:36:17 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SumitKumar\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-08 13:36:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-08 13:36:34 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SumitKumar\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-08 13:36:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-08 13:36:45 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SumitKumar\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-08 13:36:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 138.0.7204.92 (resolved driver for Chrome 138)
+2025-07-08 13:36:59 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\SumitKumar\.cache\selenium\chromedriver\win64\138.0.7204.92\chromedriver.exe
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@44592c39: 56 ms
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6097fca9: 15 ms
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2f054f70: 21 ms
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6c538eb2: 7 ms
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@ccd341d: 13 ms
+2025-07-08 13:37:11 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f1fb828: 0 ms

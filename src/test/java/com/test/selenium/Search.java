@@ -51,7 +51,8 @@ public class Search extends StartBrowser {
 	public Object[][] getSearchData() {
 
 		config();
-		return ReadExcel.readExcel(testData.getProperty("filelocation"), testData.getProperty("sheetname"));
+		String file = "./Files/search_data.xlsx";
+		return ReadExcel.readExcel(file, testData.getProperty("sheetname"));
 
 	}
 
