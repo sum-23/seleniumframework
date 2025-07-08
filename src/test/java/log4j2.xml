@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<!-- Define Appenders -->
+	<Appenders>
+		<!-- Console appender configuration -->
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+
+		<!-- File appender configuration (optional) -->
+		<File name="File" fileName="./Logs/app.log">
+			<PatternLayout
+				pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n" />
+		</File>
+	</Appenders>
+
+	<!-- Define Loggers -->
+	<Loggers>
+		<!-- Root logger configuration -->
+		<Root level="INFO">
+			<AppenderRef ref="Console" />
+			<AppenderRef ref="File" />
+		</Root>
+
+		<!-- You can also define specific loggers for different packages/classes -->
+		<Logger name="org.apache.selenium" level="DEBUG">
+			<AppenderRef ref="Console" />
+		</Logger>
+	</Loggers>
+</Configuration>
